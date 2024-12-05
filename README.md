@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java array iteration. The bug is caused by an incorrect loop condition that goes beyond the valid indices of the array. The solution shows the corrected loop condition to avoid this error.
